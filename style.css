@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(0, 0, 0, 0.952);
+}
+h1 {
+color: white;
+text-align: center;
+text-justify: auto;
+}
+
+.logo {
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+    text-justify: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;    
+
+}
